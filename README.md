@@ -7,9 +7,18 @@
 
 非常感谢。
 
+
+用到的开源仓库:
+
+1. [https://github.com/clem109/hsk-vocabulary](https://github.com/clem109/hsk-vocabulary)
+
+2. [https://github.com/glxxyz/hskhsk.com](https://github.com/glxxyz/hskhsk.com)
+
 Introduction:
 
 This project is for helping people learn Chinese. The content will include HSK materials and other materials for native Chinese speakers.
 If your first language is Chinese or English, I hope you can point out the mistake in the project.
 
 Thank you so much.
+
+
